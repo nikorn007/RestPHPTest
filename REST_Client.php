@@ -1,6 +1,6 @@
 <html>
  <body>
-
+  <p> RestPHPTest </p>
 <?php
 if (isset($_GET["action"]) && isset($_GET["id"]) && $_GET["action"] == "get_app") 
 {
